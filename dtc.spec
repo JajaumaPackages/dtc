@@ -5,7 +5,7 @@ Summary:       Device Tree Compiler
 License:       GPLv2+
 URL:           https://devicetree.org/
 
-Source:        https://ftp.kernel.org/pub/software/utils/%{name}/%{name}-%{version}.tar.xz
+Source:        https://kernel.org/pub/software/utils/%{name}/%{name}-%{version}.tar.xz
 Patch1:        use-tx-as-the-type-specifier-instead-of-zx.patch
 Patch2:        checks-Use-proper-format-modifier-for-size_t.patch
 
